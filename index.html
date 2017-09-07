@@ -1,0 +1,58 @@
+---
+layout: default
+title: Home
+---
+
+<div class="catalogue">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.url }}" class="catalogue-item">
+      <div>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ post.content | truncatewords: 30 | strip_html }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.url }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.url }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>
+
+<section>
+	<p>We specialize in <strong>Wordpress development</strong> and maintenance. Our built websites are easy-to-use, <strong>seo-friendly</strong> and scalable.</p>
+	<ul>
+		<li>Wordpress Theme Development</li>
+		<li>Installation & Setup</li>
+		<li>Wordpress SEO Services</li>
+		<li>Speed Test & Optimization</li>
+		<li>Website Migeration</li>
+		<li>Backups & Updates</li>
+		<li>Security Scan & Bug Fixes</li>
+	</ul>
+</section>
+
+<section class="work row">
+	<h2 class="text-align-center">Our Work</h2>
+	<ul class="">
+		{% for project in site.portfolio limit:12 %}
+		<li>
+		  <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
+		  <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+		  <div>{{ project.short-description }}</div>
+		</li>
+		{% endfor %}
+	</ul>
+</section>

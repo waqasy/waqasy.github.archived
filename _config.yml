@@ -1,0 +1,36 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          WebSupply
+paginate:       5
+baseurl:        "http://websupply.co"
+url:            "http://websupply.co"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+
+# About
+author:
+  name:         WebSupply
+  url:          http://websupply.co
+  email:        websupply.co@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:
+
+# Gems
+gems:
+  - jekyll-paginate
