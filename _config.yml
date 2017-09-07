@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          WebSupply
+title:          Web Supply Co.
 paginate:       5
 baseurl:        "http://websupply.co"
 url:            "http://websupply.co"
