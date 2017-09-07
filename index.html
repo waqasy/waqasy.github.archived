@@ -50,7 +50,7 @@ title: Home
 		{% for project in site.portfolio limit:12 %}
 		<li>
 		  <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-		  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+		  <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
 		  <div>{{ project.short-description }}</div>
 		</li>
 		{% endfor %}
