@@ -8,9 +8,9 @@ baseurl:        "http://websupply.co"
 url:            "http://websupply.co"
 
 # Assets
-sass:
-  sass_dir:     _sass
-  style:        :compressed
+#sass:
+#  sass_dir:     _sass
+#  style:        :compressed
 
 # Build settings
 markdown:       kramdown
