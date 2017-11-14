@@ -705,11 +705,18 @@ form.formaction input[type="submit"] {
     display: block;
     margin: 10px auto;	
     background: #e4e4e4;
+	transition: all 0.15s linear;
+}
+
+li.user-badge:hover p.user-info small:after {
+    width: 60px;
+	background: #888
 }
 
 .user-badge a {
-    margin: 10px 6px 0;
-    opacity: 0.9;
+	opacity: 0.9;
+    margin: 6px 6px 0;
+    display: inline-block;
 }
 </style>
 </head>
