@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Salezoo.dk
-feature-img: "img/salezoo-dk-featured.jpg"
-thumbnail-path: "img/salezoo-dk-featured.jpg"
+feature-img: "img/portfolio/salezoo-dk/salezoo-dk-featured.jpg"
+thumbnail-path: "img/portfolio/salezoo-dk/salezoo-dk-featured.jpg"
 short-description: Discount coupons for shopaholics
 
 ---

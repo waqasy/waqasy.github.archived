@@ -1,8 +1,8 @@
 ---
 layout: post
 title: UberWants.com
-feature-img: "img/uberwants-com-featured.jpg"
-thumbnail-path: "img/uberwants-com-featured.jpg"
+feature-img: "img/portfolio/uberwants-com/uberwants-com-featured.jpg"
+thumbnail-path: "img/portfolio/uberwants-com/uberwants-com-featured.jpg"
 short-description: Latest products updates
 
 ---

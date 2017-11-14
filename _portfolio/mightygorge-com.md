@@ -1,8 +1,8 @@
 ---
 layout: post
 title: MightyGorge.com
-feature-img: "img/mightygorge-com-featured.jpg"
-thumbnail-path: "img/mightygorge-com-featured.jpg"
+feature-img: "img/portfolio/mightygorge-com/mightygorge-com-featured.jpg"
+thumbnail-path: "img/portfolio/mightygorge-com/mightygorge-com-featured.jpg"
 short-description: Mother and baby care magazine
 
 ---

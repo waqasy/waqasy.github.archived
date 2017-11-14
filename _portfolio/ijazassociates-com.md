@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IjazAssociates.com
-feature-img: "img/ijazassociates-com-featured.jpg"
-thumbnail-path: "img/ijazassociates-com-featured.jpg"
+feature-img: "img/portfolio/ijazassociates-com/ijazassociates-com-featured.jpg"
+thumbnail-path: "img/portfolio/ijazassociates-com/ijazassociates-com-featured.jpg"
 short-description: USA-based finance management company
 
 ---
