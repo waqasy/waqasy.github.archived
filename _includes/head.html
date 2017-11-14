@@ -632,6 +632,7 @@ section {
     padding-right: 2%;
     margin-bottom: 1.5rem;
     box-sizing: border-box;
+    list-style: none;
     float: left;
 }
 
@@ -644,7 +645,6 @@ section {
 .work .excerpt {
     margin-top: 1em
 }
-
 
 form.formaction {
 	max-width: 400px;
@@ -679,9 +679,13 @@ form.formaction input[type="submit"] {
 .user-badge {
 	max-width: 300px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 30px 20px;
 	text-align: center;
 	border: 1px solid #f9f9f9
+}
+
+.user-badge:nth-child(2) {
+    margin: 0 -1px 1.5rem;
 }
 
 .user-badge .avatar {
