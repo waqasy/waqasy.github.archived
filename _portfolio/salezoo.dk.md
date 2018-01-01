@@ -16,6 +16,8 @@ Have a look at **[Salezoo.dk](http://salezoo.dk "Salezoo.dk")**
  
 ![homepage](/portfolio/salezoo-dk/homepage.png)
 
+![category](/portfolio/salezoo-dk/category.png)
+
 ![filter](/portfolio/salezoo-dk/filter.png)
 
 ![popup](/portfolio/salezoo-dk/popup.png)
