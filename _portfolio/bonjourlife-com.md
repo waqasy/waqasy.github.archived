@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BonjourLife.com
-feature-img: "/portfolio/bonjourlife-com-featured.jpg"
-thumbnail-path: "/portfolio/bonjourlife-com-featured.jpg"
+feature-img: "/portfolio/bonjourlife-com/bonjourlife-com-featured.jpg"
+thumbnail-path: "/portfolio/bonjourlife-com/bonjourlife-com-featured.jpg"
 short-description: Men's gear and lifestyle magazine
 
 ---
