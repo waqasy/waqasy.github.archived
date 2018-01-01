@@ -1,8 +1,8 @@
 ---
 layout: post
 title: FancyHype.com
-feature-img: "img/portfolio/fancyhype-com/fancyhype-com-featured.jpg"
-thumbnail-path: "img/portfolio/fancyhype-com/fancyhype-com-featured.jpg"
+feature-img: "/portfolio/fancyhype-com/fancyhype-com-featured.jpg"
+thumbnail-path: "/portfolio/fancyhype-com/fancyhype-com-featured.jpg"
 short-description: Social network for inspirations
 
 ---

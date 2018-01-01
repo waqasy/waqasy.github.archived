@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BonjourLife.com
-feature-img: "/bonjourlife-com.png"
-thumbnail-path: "img/portfolio/bonjourlife-com/bonjourlife-com-featured.jpg"
+feature-img: "/portfolio/bonjourlife-com-featured.jpg"
+thumbnail-path: "/portfolio/bonjourlife-com-featured.jpg"
 short-description: Men's gear and lifestyle magazine
 
 ---
@@ -10,10 +10,10 @@ BonjourLife is a Wordpress based magazine site that features products related to
 
 Have a look at **[BonjourLife.com](http://bonjourlife.com "BonjourLife.com")**
 
-![homepage](/bonjourlife-com/homepage.png)
+![homepage](/portfolio/bonjourlife-com/homepage.png)
 
-![homepage](/bonjourlife-com/single.png)
+![homepage](/portfolio/bonjourlife-com/single.png)
 
-![homepage](/bonjourlife-com/video.png)
+![homepage](/portfolio/bonjourlife-com/video.png)
 
-![homepage](/bonjourlife-com/menu.png)
+![homepage](/portfolio/bonjourlife-com/menu.png)
