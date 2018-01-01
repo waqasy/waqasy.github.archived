@@ -1,8 +1,8 @@
 ---
 layout: post
 title: RonEady.com
-feature-img: "/portfolio/uberwants-com/roneady-com-featured.jpg"
-thumbnail-path: "/portfolio/uberwants-com/roneady-com-featured.jpg"
+feature-img: "/portfolio/roneady-com/roneady-com-featured.jpg"
+thumbnail-path: "/portfolio/roneady-com/roneady-com-featured.jpg"
 short-description: Art
 
 ---
