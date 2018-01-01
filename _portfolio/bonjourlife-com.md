@@ -12,8 +12,8 @@ Have a look at **[BonjourLife.com](http://bonjourlife.com "BonjourLife.com")**
 
 ![homepage](/portfolio/bonjourlife-com/homepage.png)
 
-![homepage](/portfolio/bonjourlife-com/single.png)
+![single](/portfolio/bonjourlife-com/single.png)
 
-![homepage](/portfolio/bonjourlife-com/video.png)
+![video](/portfolio/bonjourlife-com/video.png)
 
-![homepage](/portfolio/bonjourlife-com/menu.png)
+![menu](/portfolio/bonjourlife-com/menu.png)
