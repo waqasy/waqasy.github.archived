@@ -10,10 +10,10 @@ BonjourLife is a Wordpress based magazine site that features products related to
 
 Have a look at **[BonjourLife.com](http://bonjourlife.com "BonjourLife.com")**
 
-![homepage](/img/portfolio/bonjourlife-com/homepage.png)
+![homepage](/bonjourlife-com/homepage.png)
 
-![homepage](/img/portfolio/bonjourlife-com/single.png)
+![homepage](/bonjourlife-com/single.png)
 
-![homepage](/img/portfolio/bonjourlife-com/video.png)
+![homepage](/bonjourlife-com/video.png)
 
-![homepage](/img/portfolio/bonjourlife-com/menu.png)
+![homepage](/bonjourlife-com/menu.png)
