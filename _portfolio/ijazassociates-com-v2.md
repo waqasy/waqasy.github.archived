@@ -12,16 +12,16 @@ Have a look at **[IjazAssociates.com](http://ijazassociates.com "IjazAssociates.
 
 ![homepage](/portfolio/ijazassociates-com-v2/homepage.png)
 
-![category](/portfolio/ijazassociates-com-v2/menu.png)
+![menu](/portfolio/ijazassociates-com-v2/menu.png)
 
 ![category](/portfolio/ijazassociates-com-v2/category.png)
 
-![subpage](/portfolio/ijazassociates-com-v2/page.png)
+![page](/portfolio/ijazassociates-com-v2/page.png)
 
-![shortcode](/portfolio/ijazassociates-com-v2/profile.png)
+![profile](/portfolio/ijazassociates-com-v2/profile.png)
 
-![subpage](/portfolio/ijazassociates-com-v2/resources.png)
+![resources](/portfolio/ijazassociates-com-v2/resources.png)
 
-![form](/portfolio/ijazassociates-com-v2/custom-form.png)
+![custom-form](/portfolio/ijazassociates-com-v2/custom-form.png)
 
 ![contact](/portfolio/ijazassociates-com-v2/contact.png)
