@@ -9,8 +9,8 @@ Various UI/UX improvements
 
 Have a look at **[cityalarm2020.com](http://cityalarm2020.com "cityalarm2020.com")**
 
-![homepage](/portfolio/cityalarm2020-com-v1/homepage.jpg)
+![homepage](/portfolio/cityalarm2020-com/homepage.jpg)
 
-![services](/portfolio/cityalarm2020-com-v1/services.jpg)
+![services](/portfolio/cityalarm2020-com/services.jpg)
 
-![faqs](/portfolio/cityalarm2020-com-v1/faqs.jpg)
+![faqs](/portfolio/cityalarm2020-com/faqs.jpg)
