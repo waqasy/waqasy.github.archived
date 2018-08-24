@@ -10,8 +10,8 @@ A USA based lawyers portal that allows lawyers to create profile. Users can sear
 
 Have a look at **[personalfamilylawyers.com](http://personalfamilylawyers.com "personalfamilylawyers.com")**
 
-![homepage](/portfolio/personalfamilylawyers-com/homepage.png)
+![homepage](/portfolio/personalfamilylawyers-com/homepage.jpg)
 
-![profile](/portfolio/personalfamilylawyers-com/profile.png)
+![profile](/portfolio/personalfamilylawyers-com/profile.jpg)
 
-![search](/portfolio/personalfamilylawyers-com/search.png)
+![search](/portfolio/personalfamilylawyers-com/search.jpg)

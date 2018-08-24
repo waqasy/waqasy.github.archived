@@ -10,18 +10,18 @@ A USA based financial services company wanted their corporate site made. We used
 
 Have a look at **[IjazAssociates.com](http://ijazassociates.com "IjazAssociates.com")**
 
-![homepage](/portfolio/ijazassociates-com-v2/homepage.png)
+![homepage](/portfolio/ijazassociates-com-v2/homepage.jpg)
 
-![menu](/portfolio/ijazassociates-com-v2/menu.png)
+![menu](/portfolio/ijazassociates-com-v2/menu.jpg)
 
-![category](/portfolio/ijazassociates-com-v2/category.png)
+![category](/portfolio/ijazassociates-com-v2/category.jpg)
 
-![page](/portfolio/ijazassociates-com-v2/page.png)
+![page](/portfolio/ijazassociates-com-v2/page.jpg)
 
-![profile](/portfolio/ijazassociates-com-v2/profile.png)
+![profile](/portfolio/ijazassociates-com-v2/profile.jpg)
 
-![resources](/portfolio/ijazassociates-com-v2/resources.png)
+![resources](/portfolio/ijazassociates-com-v2/resources.jpg)
 
-![custom-form](/portfolio/ijazassociates-com-v2/custom-form.png)
+![custom-form](/portfolio/ijazassociates-com-v2/custom-form.jpg)
 
-![contact](/portfolio/ijazassociates-com-v2/contact.png)
+![contact](/portfolio/ijazassociates-com-v2/contact.jpg)
