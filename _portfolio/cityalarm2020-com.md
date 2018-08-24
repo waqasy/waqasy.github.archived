@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cityalarm2020.com
+title: CityAlarm2020.com
 feature-img: "/portfolio/cityalarm2020-com/cityalarm2020-com-featured.jpg"
 thumbnail-path: "/portfolio/cityalarm2020-com/cityalarm2020-com-featured.jpg"
 short-description: Canadian Security
